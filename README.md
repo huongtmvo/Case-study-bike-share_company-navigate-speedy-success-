@@ -22,9 +22,10 @@ This project aims at answering the first question: How do annual members and cas
 ## III. Data wrangling and analysis:
 This project uses the latest 12 months data of Cyclistic's trips from Motivate International Inc. The data is suitable for the project and is reliable, coming from a reputable source.
 We perform different data wrangling methods to ensure the integrity of the data and data analysis to learn some data insights.
-![](https://github.com/huongvo99/bike_sharing_cs/blob/main/image/image2.png)
+
 ![](https://github.com/huongvo99/bike_sharing_cs/blob/main/image/image3.png)
 
+![](https://github.com/huongvo99/bike_sharing_cs/blob/main/image/image2.png) 
 ## IV. Findings
 * Cyclistic riders compose of 54% annual members and 46% of casual riders.
 * Among the three types of bikes, members users use more classic and eletric bikes while casual members use more docked bikes.
