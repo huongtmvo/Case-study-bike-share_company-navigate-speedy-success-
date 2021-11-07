@@ -22,8 +22,10 @@ This project aims at answering the first question: How do annual members and cas
 ## III. Data wrangling and analysis:
 This project uses the latest 12 months data of Cyclistic's trips from Motivate International Inc. The data is suitable for the project and is reliable, coming from a reputable source.
 We perform different data wrangling methods to ensure the integrity of the data and data analysis to learn some data insights.
+![](https://github.com/huongvo99/bike_sharing_cs/blob/main/image/image2.png)
+![](https://github.com/huongvo99/bike_sharing_cs/blob/main/image/image3.png)
 
-## Iv. Findings
+## IV. Findings
 * Cyclistic riders compose of 54% annual members and 46% of casual riders.
 * Among the three types of bikes, members users use more classic and eletric bikes while casual members use more docked bikes.
 * During everyday of the week,the amount of time per trip of members are shorter than casual riders, with the average members ride the bike for about 13-16 minutes and the casual riders ride the bike for 28-38 minutes on average.
@@ -31,7 +33,7 @@ We perform different data wrangling methods to ensure the integrity of the data 
 * Summer months from June to August have the most rides. Casual rides are more than member rides in June, July and August.Compared to the members, casual riders' number of rides varies more widely.
 * Majority of start and end locations for casual riders are at Streeter De & Grand Ave, Millenium Park and Michigan Ave & Oak st while the members's start and end location are more spread out.
 
-## V.Recommendations
+## V. Recommendations
 Most of the differences in the uses of member and casual riders can be explained their use purposes. Members are more likely to use the bikes for work, with convenient and dispersed locations, shorter rides, and are more active during work week. On the contrary, casual riders are more likely to use the bike for leisure, with longer average rides, mostly on weekends and in the summer months when weather is nice.
 If the company wants to convert casual riders to members, we can market the convenience of our service for work not just leisure, such as the amount of time saved because of our many dispersed staions. An additional idea might be to give a discount to attract the leisure riders to convert to our full membership.
 In order to help with figuring out the best marketing plan, ddditional research must be done on why casual riders would buy a membership, and how digital media could affect their marketing tactics.
