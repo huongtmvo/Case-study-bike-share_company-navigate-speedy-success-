@@ -38,3 +38,5 @@ We perform different data wrangling methods to ensure the integrity of the data 
 Most of the differences in the uses of member and casual riders can be explained their use purposes. Members are more likely to use the bikes for work, with convenient and dispersed locations, shorter rides, and are more active during work week. On the contrary, casual riders are more likely to use the bike for leisure, with longer average rides, mostly on weekends and in the summer months when weather is nice.
 If the company wants to convert casual riders to members, we can market the convenience of our service for work not just leisure, such as the amount of time saved because of our many dispersed staions. An additional idea might be to give a discount to attract the leisure riders to convert to our full membership.
 In order to help with figuring out the best marketing plan, ddditional research must be done on why casual riders would buy a membership, and how digital media could affect their marketing tactics.
+
+[Full Github code file](https://github.com/huongvo99/bike_sharing_cs/blob/main/Case%20Study%20Bike%20Sharing.ipynb)
